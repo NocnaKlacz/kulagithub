@@ -1,1 +1,4 @@
-test
+{
+  "DevInfo": {
+    "v1": "testtext"
+  }}
