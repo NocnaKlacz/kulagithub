@@ -1,6 +1,6 @@
 Version 1
 Known bugs;
 - Once every few hundred jumps, the Kula locks up, level restart or Kula respawn is needed
-- In the event that a level has more than one key, if you pick up the first and then the second 
-in less than a second, the game will not pass it, preventing you from completing the level. 
+- In case when a level has more than one key, if you pick up the first and then another one  
+in less than a 1 second, the game will not count  it, preventing you from completing the level. 
 The solution is to place the keys further apart.
