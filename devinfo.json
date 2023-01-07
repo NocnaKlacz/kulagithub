@@ -4,3 +4,5 @@ Known bugs;
 - In case when a level has more than one key, if you pick up the first and then another one  
 in less than a 1 second, the game will not count  it, preventing you from completing the level. 
 The solution is to place the keys further apart.
+- 'Cube 2' are not visible in the created thumbnail.
+The solution is to raise Google item by Kula, for the duration of it, 'Cube 2' will also be visible in the created thumbnail.
