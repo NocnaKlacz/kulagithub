@@ -1,5 +1,6 @@
 Version 1
 Known bugs;
+- Changing the keys responsible for movement and jump breaks the movement in the game.
 - Once every few hundred jumps, the Kula locks up, level restart or Kula respawn is needed
 - In case when a level has more than one key, if you pick up the first and then another one  
 in less than a 1 second, the game will not count  it, preventing you from completing the level. 
